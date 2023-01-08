@@ -1,0 +1,5 @@
+主菜　Main dish,menu_load.php?t=650111&a=on_b
+副菜　Side dish,menu_load.php?t=650111&a=on_c
+麺類　Noodles,menu_load.php?t=650111&a=on_d
+丼・カレー　Rice bowl / Curry,menu_load.php?t=650111&a=on_e
+デザート　Dessert,menu_load.php?t=650111&a=on_bunrui2
